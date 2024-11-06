@@ -82,9 +82,4 @@ MIT License
 
 ## Contributions:
 
-Contributions are welcome! Please open an issue or submit a pull request.  This README provides a high-level overview.  Refer to the source code for detailed information.
-
-
-## Contributions:
-
-Contributions are welcome! Please open an issue or submit a pull request on GitHub.  This README provides a high-level overview.  The source code contains detailed information on the contract’s functionality.
+Contributions are welcome! Please open an issue or submit a pull request. 
